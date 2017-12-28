@@ -1,5 +1,5 @@
 ---
-title: Round Icons
+title: Irich
 subtitle: Graphic Design
 layout: default
 modal-id: 6

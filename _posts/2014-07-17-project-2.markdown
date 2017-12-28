@@ -1,5 +1,5 @@
 ---
-title: Escape
+title: SYNSOMETTRY
 subtitle: Website Design
 layout: default
 modal-id: 2
